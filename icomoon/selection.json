@@ -1,0 +1,129 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M747.52 307.251l-471.040-0.051 235.52 409.6z"
+				],
+				"tags": [
+					"arrow-down",
+					"triangle",
+					"down",
+					"bottom"
+				],
+				"grid": 20
+			},
+			"properties": {
+				"id": 202,
+				"order": 1,
+				"prevSize": 20,
+				"code": 58880,
+				"name": "flecha-arriba",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 202
+		},
+		{
+			"icon": {
+				"paths": [
+					"M276.48 716.8h471.040l-235.571-409.6z"
+				],
+				"tags": [
+					"arrow-up",
+					"triangle",
+					"up",
+					"top"
+				],
+				"grid": 20
+			},
+			"properties": {
+				"id": 203,
+				"order": 2,
+				"prevSize": 20,
+				"code": 58881,
+				"name": "flecha-abajo",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 203
+		},
+		{
+			"icon": {
+				"paths": [
+					"M950.857 369.714q0 12.571-14.857 27.429l-207.429 202.286 49.143 285.714q0.571 4 0.571 11.429 0 12-6 20.286t-17.429 8.286q-10.857 0-22.857-6.857l-256.571-134.857-256.571 134.857q-12.571 6.857-22.857 6.857-12 0-18-8.286t-6-20.286q0-3.429 1.143-11.429l49.143-285.714-208-202.286q-14.286-15.429-14.286-27.429 0-21.143 32-26.286l286.857-41.714 128.571-260q10.857-23.429 28-23.429t28 23.429l128.571 260 286.857 41.714q32 5.143 32 26.286z"
+				],
+				"width": 951,
+				"tags": [
+					"star"
+				],
+				"defaultCode": 61445,
+				"grid": 14
+			},
+			"properties": {
+				"id": 5,
+				"order": 3,
+				"prevSize": 28,
+				"code": 61445,
+				"name": "estrella",
+				"ligatures": ""
+			},
+			"setIdx": 1,
+			"iconIdx": 5
+		},
+		{
+			"icon": {
+				"paths": [
+					"M384 586.666c0 0 203.944-122.36 318.766-74.026 23.802-36.268 47.248-75.336 70.202-115.222-112.326-27.52-260.968-2.752-260.968-2.752s190.212-114.122 306.666-78.4c23.35-42.108 46.054-83.642 67.956-122.304-92.776-6.268-182.622 8.704-182.622 8.704s119.148-71.488 226.578-83.598c33.798-54.86 65.17-97.88 93.422-119.068-561 0-896 640-1024 1024h64l192-320c0 0 64 64 256 0 45.474-15.158 90.948-57.252 135.572-113.934-112.616-28.554-263.572-3.4-263.572-3.4z"
+				],
+				"tags": [
+					"quill",
+					"feather",
+					"write",
+					"blog",
+					"edit"
+				],
+				"grid": 16
+			},
+			"properties": {
+				"id": 7,
+				"order": 4,
+				"prevSize": 32,
+				"code": 58882,
+				"name": "publicar",
+				"ligatures": ""
+			},
+			"setIdx": 2,
+			"iconIdx": 7
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"metrics": {
+				"emSize": 512,
+				"baseline": 6.25,
+				"whitespace": 50
+			}
+		},
+		"imagePref": {
+			"color": 0,
+			"height": 32,
+			"columns": 16,
+			"margin": 16
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"search": ""
+	}
+}
